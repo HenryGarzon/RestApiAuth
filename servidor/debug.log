@@ -1,7 +1,0 @@
-Array
-(
-    [nombre_usuario] => Jhon Doe
-    [email] => jhon@email.com
-    [contrasena] => 123
-)
-Error en registrarUsuario: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Jhon Doe' for key 'usuarios.nombre_usuario'
